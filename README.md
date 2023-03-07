@@ -1,4 +1,5 @@
 #Snapshot
+
 <b>Stop the service and reset the data</b>
 
 ```
